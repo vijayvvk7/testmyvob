@@ -1,1 +1,5 @@
+.log
+
 this text file is for validating the fork option
+
+++newchange 10:10 AM
